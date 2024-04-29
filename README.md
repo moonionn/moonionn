@@ -1,4 +1,5 @@
 ### Hi there 👋
+Hi, I'm Moonion, I studied in National Changhua University of Education, majoring in Information Management, I specialize in Data Science, Machine Learning, and Deep Learning. 
 
 <!--
 **moonionn/moonionn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
