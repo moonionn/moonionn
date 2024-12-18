@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Moonion, I studied in National Changhua University of Education, majoring in Information Management, and I specialize in Data Science, Machine Learning, and Deep Learning. 
+I'm YiJun Shen (Moonion), I studied in National Changhua University of Education, majoring in Information Management, and I specialize in Data Science, Machine Learning, and Deep Learning. 
 
 <!--
 **moonionn/moonionn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
